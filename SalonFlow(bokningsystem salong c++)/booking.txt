@@ -1,0 +1,2 @@
+Customer info: Sedra, 03432,dad, Hairdresser info: Sedra,070428446,Massage, Treatment: Massage, Price: 500, Duration: 60, Time: 11:00
+
